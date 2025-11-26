@@ -1,6 +1,6 @@
 # Process port mapper
 
-> this Batch file looks for all the ports (like HTTP or SMTP for instance) opened and indicates the PID and file's name of the application.
+> This Batch file looks for all the ports (like HTTP or SMTP for instance) opened and indicates the PID and file's name of the application.
 
 ## Why to use it?
 
